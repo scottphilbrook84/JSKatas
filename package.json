@@ -1,0 +1,12 @@
+{
+  "name": "jskatas",
+  "version": "1.0.0",
+  "description": "Javascript Katas",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.0",
+    "gulp-mocha": "^2.2.0",
+    "gulp-util": "^3.0.7",
+    "mocha": "^2.4.5"
+  }
+}
