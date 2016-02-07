@@ -1,11 +1,7 @@
 var expect = require('chai').expect;
-var app = require('../lib/app.js')
+var app = require('../lib/Return String of First Characters.js')
 
-it('should equal bar', function() {
-    expect(app._test.foo()).to.equal('bar');
-});
-
-it('should equal infinity', function() {
-    expect(app._test.INFINITY).to.equal('infinitydd');
+it('Join first character from each word into a new word', function() {
+    expect(app.stringapp.makeString('bars are right')).to.equal('bar');
 });
 
